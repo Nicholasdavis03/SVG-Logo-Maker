@@ -3,7 +3,7 @@
 This is a command-line application that allows users to generate SVG logos with customizable text and shapes.
 
 ## Functionality 
-SVG-Logo-Maker\guide.mov
+
 
 ## Feature
 
