@@ -3,7 +3,6 @@
 This is a command-line application that allows users to generate SVG logos with customizable text and shapes.
 
 ## Functionality 
-[Untitled_ Feb 11, 2024 9_04 AM.webm](https://github.com/Nicholasdavis03/SVG-Logo-Maker/assets/142276107/b50a20bb-7ca0-4da6-9adb-ee4da30046f8)
 
 
 ## Feature
