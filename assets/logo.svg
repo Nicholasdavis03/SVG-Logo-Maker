@@ -1,0 +1,8 @@
+
+            <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+                <rect width="100%" height="100%" fill="green"/>
+                <text x="50%" y="50%" fill="white" text-anchor="middle" dominant-baseline="middle" font-size="30">nic</text>
+                <!-- Example: Render shape -->
+                <path d="undefined" fill="green"/>
+            </svg>
+        
