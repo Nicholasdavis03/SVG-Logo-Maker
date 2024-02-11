@@ -3,10 +3,9 @@
 This is a command-line application that allows users to generate SVG logos with customizable text and shapes.
 
 ## Functionality 
-![Watch the video](Untitled_ Feb 11, 2024 9_04 AM.webm)
+SVG-Logo-Maker\guide.mov
 
-
-## Features
+## Feature
 
 - **Text Input:** Users can enter up to three characters for the logo text.
 - **Color Selection:** Users can specify the text color and shape color using color keywords or hexadecimal numbers.
