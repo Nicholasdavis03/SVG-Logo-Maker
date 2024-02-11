@@ -4,6 +4,8 @@ This is a command-line application that allows users to generate SVG logos with 
 
 ## Functionality 
 
+[Untitled_ Feb 11, 2024 9_23 AM.webm](https://github.com/Nicholasdavis03/SVG-Logo-Maker/assets/142276107/1d532196-cfd7-48f8-918c-aaf0fb60fbc2)
+
 
 ## Feature
 
